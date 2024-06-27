@@ -13,5 +13,5 @@ console.log(digit);
 
 const number= 45;
 console.log(number);
-// number= 50; // value cannot be updated nor the variable can be re-declared
+// number= 50; // value cannot be updated nor the
 console.log(number);
