@@ -27,11 +27,52 @@
 
 // string.trim() ----> used to remove the whitespace
 
-const string = "            My      name is Shirisha Singh         ";
-const nextString = "            My name is Shirisha Singh         ";
-const nString = "          Hello World                   ";
-const newString = string.trim();
-const newStrings =nextString.trim();
-console.log(newString);
-console.log(newStrings);
-console.log(nString.trim());
+// const string = "            My      name is Shirisha Singh         ";
+// const nextString = "            My name is Shirisha Singh         ";
+// const nString = "          Hello World                   ";
+// const newString = string.trim();
+// const newStrings =nextString.trim();
+// console.log(newString);
+// console.log(newStrings);
+// console.log(nString.trim());
+
+// slice(start,end)
+
+// let string = "HelloNepal";
+// let result = string.slice(1,4);
+// console.log(result);
+// console.log(string.slice(1,4));
+
+// string1.concat(string2) or simply +
+
+// let string1 = "hello";
+// let string2 = 123;
+// let result = string1.concat(string2);
+// console.log(result);
+// console.log(string1.concat(string2));
+// let output = string1 +string2;
+// console.log(output);
+// console.log(string1 + string2);
+
+// string.replace(searchValue,newValue)
+// let string= "My school";
+// let result = string.replace("school", "home");
+// console.log(string);
+// console.log(result);
+// console.log(string.replace("school", "country"));
+
+
+//string.replaceAll(searchValue, newValue)
+// let string = "MyMyMyMyMy";
+// console.log(string.replaceAll("My", "I"));
+
+
+// string.charAt(index)
+// const string = "MY COUNTRY NAME IS NEPAL";
+// const result = string.charAt(6);
+// console.log(result);
+// console.log(string[8]);
+
+// string.inclues("value")
+// let string = "hello";
+// console.log(string.includes("a"));

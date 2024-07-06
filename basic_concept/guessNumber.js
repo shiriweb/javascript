@@ -14,3 +14,13 @@
 //     userWord = prompt("Your guess is incorrect! Make a guess again"); 
 // }
 // alert("Congratulation you found the correct word");
+
+
+// let guessNumber = 78;
+// let userGuess = prompt("Enter a ramdom guess");
+
+// while(userGuess != guessNumber){
+//     userGuess = prompt("Try again");
+// }
+// alert("Congrats! welldone. your guess is correct");
+

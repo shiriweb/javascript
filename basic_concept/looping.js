@@ -44,7 +44,7 @@
 // let size = 0;
 // for(let value of string){
 //     console.log(`The value of given sting is : ${value}`);
-//     size++;
+    // size++;
 // }
 // console.log(`The total size of the string is:${size}`);
 
