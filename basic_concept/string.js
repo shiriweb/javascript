@@ -29,7 +29,9 @@
 
 const string = "            My      name is Shirisha Singh         ";
 const nextString = "            My name is Shirisha Singh         ";
+const nString = "          Hello World                   ";
 const newString = string.trim();
 const newStrings =nextString.trim();
 console.log(newString);
 console.log(newStrings);
+console.log(nString.trim());
