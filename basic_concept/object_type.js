@@ -5,6 +5,7 @@
 //     isPass : true
 // };
 
-// console.log(student);
-// console.log(student["age"]);
-// console.log(student.fullName);
+
+console.log(student);
+console.log(student["age"]) ;
+console.log(student.fullName);
