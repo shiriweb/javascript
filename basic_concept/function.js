@@ -5,7 +5,7 @@ function myFunction(){
 }
 myFunction();
 
-function Function(msg){
+function Function(msg) {
     console.log(msg);
 }
 Function("Hello this is Nepal");
