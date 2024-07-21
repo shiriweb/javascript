@@ -11,6 +11,7 @@ function Function(msg) {
 Function("Hello this is Nepal");
 
 // Addition of the two numbers
+
 function Addition(a,b){
     // let result = a+b;
     // console.log(result);
