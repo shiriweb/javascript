@@ -1,7 +1,7 @@
 // Function in JS
 
 function myFunction(){
-    console.log("Hello World");
+    console.log("Hello World");z
 }
 myFunction();
 
@@ -11,7 +11,7 @@ function Function(msg) {
 
 Function("Hello this is Nepal");
 
-// Addition of the two numbers
+// Addition off the two numbers 
 
 function Addition(a,b){
     // let result = a+b;
