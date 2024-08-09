@@ -7,6 +7,7 @@ myFunction();
 
 function Function(msg) {
     console.log(msg);
+    
 }
 
 Function("Hello this is Nepal");
